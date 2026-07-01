@@ -1,0 +1,283 @@
+canonical_identifier: bkk:krp/KR6d0144/v1
+canonical_location: https://kanripo.org/bkk/KR6d0144/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋禪波羅蜜次第法門
+  identifiers:
+    alt_id:
+    - T46n1916
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1916.xml
+    old_id: T46n1916
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0144_000.yaml, hash: 'sha256:b31c10aa4ef2aa530bfd980d0e25c7d46fe062aebc79d3a19755e654014c1433'}
+  - {seq: 2, filename: KR6d0144_002.yaml, hash: 'sha256:2dda77076e4cb42f74d5a23b68492a404a1145ac661fdd44f6c9bc1501612d2b'}
+  - {seq: 3, filename: KR6d0144_003.yaml, hash: 'sha256:822b6c46d027e2c1b165808d22c46e1bc775e52cfcdf8b2fb0c798f011ddfc38'}
+  - {seq: 2, filename: KR6d0144_002.yaml, hash: 'sha256:2dda77076e4cb42f74d5a23b68492a404a1145ac661fdd44f6c9bc1501612d2b'}
+  - {seq: 5, filename: KR6d0144_005.yaml, hash: 'sha256:b477fd2df3af54eb01c99cac34d4694bd5b4ee95bf5b2f607a7a06ca01f8bdae'}
+  - {seq: 6, filename: KR6d0144_006.yaml, hash: 'sha256:114719927b697b7d7b8d83060d4315bf47cc81b81b539ef6a658e8d92b6c4759'}
+  - {seq: 4, filename: KR6d0144_004.yaml, hash: 'sha256:4bff6b5cdf6c636e3afd7e83d19849db5d41b6c481ae80e32e73653080e3d1f9'}
+  - {seq: 5, filename: KR6d0144_005.yaml, hash: 'sha256:b477fd2df3af54eb01c99cac34d4694bd5b4ee95bf5b2f607a7a06ca01f8bdae'}
+  - {seq: 6, filename: KR6d0144_006.yaml, hash: 'sha256:114719927b697b7d7b8d83060d4315bf47cc81b81b539ef6a658e8d92b6c4759'}
+  - {seq: 7, filename: KR6d0144_007.yaml, hash: 'sha256:304069212650933f0139d8b519200c4b7b27d3eae4088be44427956f54102455'}
+  - {seq: 8, filename: KR6d0144_008.yaml, hash: 'sha256:03f418b113c32f1a68710912c72a63e1850169bb6bb026b326b66974efc4beaf'}
+  - {seq: 9, filename: KR6d0144_009.yaml, hash: 'sha256:caf74c62b33ab17139b47883861bd5a17263be2d428a102e3f32097fba56f597'}
+  - {seq: 10, filename: KR6d0144_010.yaml, hash: 'sha256:3816f529637afcd5cc8e22d5546d405d78b689b12083cd3400d7d15ebf0181a7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0144_000.markers.yaml, hash: 'sha256:3d6c82f526a6b899286c2176af990d28ca83565d1cb48dc842c572686290c5ab'}
+  - {seq: 2, role: markers, filename: assets/KR6d0144_002.markers.yaml, hash: 'sha256:97b31fb0dc3442e5f7b240e8e89718b6f632cf2d85eb2fed93430feb0f77adca'}
+  - {seq: 3, role: markers, filename: assets/KR6d0144_003.markers.yaml, hash: 'sha256:144705a486b4f37d4704ee8027dfa37efcde673dc586265b13d3c4b0c39905f3'}
+  - {seq: 5, role: markers, filename: assets/KR6d0144_005.markers.yaml, hash: 'sha256:42d6e9a767d9b542243cb38b5a77fa4b17c4fbfd257521fd8832799c6349ad40'}
+  - {seq: 6, role: markers, filename: assets/KR6d0144_006.markers.yaml, hash: 'sha256:56bd0af532745c1039bda2376ba0af2306f69ebe878ec7b1102cb7ef741de8ca'}
+  - {seq: 4, role: markers, filename: assets/KR6d0144_004.markers.yaml, hash: 'sha256:550f0c219e6c2ccd00580abc3004347824a6b1752495c5d17995d2739c6984f7'}
+  - {seq: 7, role: markers, filename: assets/KR6d0144_007.markers.yaml, hash: 'sha256:7f445086d803f7e7fbfdd9897db055c26fe81dc23147a78dfc07649770339a76'}
+  - {seq: 8, role: markers, filename: assets/KR6d0144_008.markers.yaml, hash: 'sha256:9274188f1f743b1bdbf97a63050d32da52cb592350c5ed51e04571c68a91cc6f'}
+  - {seq: 9, role: markers, filename: assets/KR6d0144_009.markers.yaml, hash: 'sha256:a881d708a72d78aa3c7a86a42a3aa3212131d99501b7d0b245245fe0c3bcb000'}
+  - {seq: 10, role: markers, filename: assets/KR6d0144_010.markers.yaml, hash: 'sha256:a02d0698ae8a068b800156d5a82a5ba87aaf03ceac418d8026a9313d34bd3196'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0144_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 禪波羅蜜序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 6056
+  label: '釋禪波羅蜜次第法門卷第一之
+
+    上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_001a-mulu-1
+    span:
+    - body
+    - 645
+    - 645
+  label: 1 修禪波羅蜜大意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_001a-mulu-2
+    span:
+    - body
+    - 2489
+    - 2489
+  label: 2 釋禪波羅蜜名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_001a-mulu-3
+    span:
+    - body
+    - 4668
+    - 4668
+  label: 3 明禪波羅蜜門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0144_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 5227
+  label: '釋禪波羅蜜次第法門卷第一之
+
+    下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0144_T_001b-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 4 辨禪波羅蜜詮次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0144_T_001b-mulu-2
+    span:
+    - body
+    - 1786
+    - 1786
+  label: 5 簡禪波羅蜜法心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10824
+  label: 釋禪波羅蜜次第法門卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_002-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 6 分別禪波羅蜜前方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0144_T_002-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0144_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 7460
+  label: '釋禪波羅蜜次第法門卷第三之
+
+    上'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0144_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 6213
+  label: '釋禪波羅蜜次第法門卷第三之
+
+    下'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0144_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10243
+  label: 釋禪波羅蜜次第法門卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0144_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 11831
+  label: 釋禪波羅蜜次第法門卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0144_T_005-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 7 釋禪波羅蜜修證
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0144_T_005-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0144_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 11277
+  label: 釋禪波羅蜜次第法門卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0144_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6924
+  label: 釋禪波羅蜜次第法門卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0144_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 9315
+  label: 釋禪波羅蜜次第法門卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0144_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7461
+  label: 釋禪波羅蜜次第法門卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0144_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 11824
+  label: 釋禪波羅蜜次第法門卷第十
+  type: juan
+  level: 1
+hash: sha256:cc0452e49e3160e668f54635fd821147be723806697a88ebb01faaf6e8327759
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
